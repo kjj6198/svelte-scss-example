@@ -14,4 +14,3 @@
    	}),
    ```
 3. 參考 [App.svelte](./src/App.svelte) 檔案查看 scss 使用範例
-   ｀
